@@ -1,17 +1,23 @@
-## Microsoft Clone - Tailwind Exercise 
-![(Not responsive) (Only Frontend, Home Page)]
+### Microsoft Clone - Tailwind Exercise 01
+Not Responsive, only frontend!
 
-## Available Scripts
+Live Site : <a href="https://effervescent-speculoos-68cd65.netlify.app">Click Here</a>
+
+### Available Scripts
 Install all dependancies :
 <code>npm install</code>
-Start Dev Server
+
+Start Dev Server : 
 <code>npm start</code>
-Buid Production Code
+
+Build Production css : 
 <code>npm run build</code>
 
-## Technologies Used
-- HTML
-- CSS
-- Tailwind
-- PostCss
-- Vite
+Then link build css in index.html
+
+Over :)
+
+### Description
+On day 01 of learning Tailwind, created this clone to practice tailwind css. 
+
+This project is not responsive (Sorry!)
